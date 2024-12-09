@@ -1,4 +1,4 @@
-My name is Berchie Agyemang Nti, an I.T Specialist. I am currenting working with Kumasi Centre for Collaborative Research,KUNST-Kumasi. I work at the Data department. I have the passion for coding, to develop apps to help the community. I am looking to collaborate with other developers to work on projects that will help the community.
+My name is Berchie Agyemang Nti, a technology enthusiast. I work in the data department at Bernhard Nocht Institute for Tropical Medicine in Hamburg, Germany. I have a passion for coding and developing apps that help the community I look forward to collaborating with other developers on projects that will help the community.
 
 <!--
 **Berchie/Berchie** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
